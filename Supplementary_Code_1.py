@@ -3,7 +3,7 @@
 Usage:
     python Supplementary_Code_1.py Supplementary_Data_1.csv
 
-Requires Python 3.10+ and only the standard library. The script does not
+Developed and tested with Python 3.14; requires Python 3.8+ (standard library only). The script does not
 reconstruct unavailable fold-level uncertainty or retrain any forecasting model.
 """
 

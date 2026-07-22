@@ -3,7 +3,7 @@
 > **English** | [日本語](#日本語)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Python 3.14](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
 [![OSF Preregistration](https://img.shields.io/badge/OSF-Preregistered-blue.svg)](https://doi.org/10.17605/OSF.IO/ANVGC)
 
 ---
@@ -49,7 +49,7 @@ The procedure is applied to a synthesis of two independent studies comparing spa
 | File | Description |
 |------|-------------|
 | [`Supplementary_Data_1.csv`](Supplementary_Data_1.csv) | 51-environment Study 1 comparator audit: ICI, R² for ST-GNN/XGBoost/Linear+FE, E1/E2/E4 values, sample flags |
-| [`Supplementary_Code_1.py`](Supplementary_Code_1.py) | Reproduces all E1/E2/E4 arithmetic and ICI-E1 Pearson correlations — standard library only, no dependencies |
+| [`Supplementary_Code_1.py`](Supplementary_Code_1.py) | Reproduces all E1/E2/E4 arithmetic and ICI-E1 Pearson correlations — standard library only, no dependencies; developed and tested with Python 3.14 |
 | [`Figure_1.png`](Figure_1.png) | Conceptual flow diagram of the Claim-Calibrated Evaluation Procedure |
 | [`REPRODUCE.md`](REPRODUCE.md) | Step-by-step reproduction instructions |
 | [`CITATION.cff`](CITATION.cff) | Machine-readable citation file |

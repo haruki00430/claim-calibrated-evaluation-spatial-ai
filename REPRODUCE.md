@@ -4,7 +4,7 @@
 
 ### Requirements
 
-- **Python 3.10 or later** (no third-party packages required — standard library only)
+- **Python 3.14** (developed and tested; Python 3.8+ required; no third-party packages — standard library only)
 - The two files must be in the same directory:
   - `Supplementary_Code_1.py`
   - `Supplementary_Data_1.csv`
@@ -77,7 +77,7 @@ For Study 2 analytic data and code, see the companion repository:
 
 ### 必要環境
 
-- **Python 3.10 以降**（外部パッケージ不要・標準ライブラリのみ使用）
+- **Python 3.14**（開発・検証環境；Python 3.8+ で動作可能；外部パッケージ不要・標準ライブラリのみ使用）
 - 同じディレクトリに以下の2ファイルが必要：
   - `Supplementary_Code_1.py`
   - `Supplementary_Data_1.csv`

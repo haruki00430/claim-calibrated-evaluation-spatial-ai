@@ -119,9 +119,9 @@ Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ### 論文情報
 
 > **モデルの順位表は自己説明しない：医療予測における空間AIの主張較正評価**  
-> 齋藤春樹（医学生）¹、大平哲也（MD, PhD）¹²  
+> 齋藤治輝（医学生）¹、大平哲也（MD, PhD）¹²  
 > ¹ 福島県立医科大学医学部疫学講座、福島、日本  
-> ² 福島医科大学 放射線医学県民健康管理センター、福島、日本  
+> ² 福島県立医科大学 放射線医学県民健康管理センター、福島、日本  
 > *Journal of the American Medical Informatics Association（JAMIA）投稿中、2026年*
 
 ### 概要

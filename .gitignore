@@ -1,0 +1,31 @@
+# AI tool config (internal DB, conflict risk)
+.claude/
+.cursor/
+.gemini/
+.obsidian/
+.antigravity/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temp / submission artifacts
+*.tmp
+*.bak
+Gmail - *.pdf
+~$*.docx

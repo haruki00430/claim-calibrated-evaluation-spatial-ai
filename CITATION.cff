@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting — Supplementary Data and Code"
+authors:
+  - family-names: Saito
+    given-names: Haruki
+    orcid: "https://orcid.org/0009-0009-7890-6068"
+    affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan"
+  - family-names: Ohira
+    given-names: Tetsuya
+    orcid: "https://orcid.org/0000-0003-4532-7165"
+    affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan"
+repository-code: "https://github.com/haruki00430/claim-calibrated-evaluation-spatial-ai"
+license: MIT
+version: 1.0.0
+date-released: "2026-07-22"
+abstract: >
+  Supplementary data and reproducibility code for the manuscript
+  "Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation
+  of Spatial AI in Health Care Forecasting" (submitted to JAMIA, 2026).
+  Includes the 51-environment Study 1 comparator audit dataset and a
+  standard-library-only Python script that reproduces all reported
+  arithmetic summaries and ICI-E1 Pearson correlations.
+keywords:
+  - spatial AI
+  - claim-calibrated evaluation
+  - health care forecasting
+  - spatiotemporal graph neural networks
+  - model benchmarking
+  - null results
+  - transparency
+preferred-citation:
+  type: article
+  title: "Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting"
+  authors:
+    - family-names: Saito
+      given-names: Haruki
+      orcid: "https://orcid.org/0009-0009-7890-6068"
+    - family-names: Ohira
+      given-names: Tetsuya
+      orcid: "https://orcid.org/0000-0003-4532-7165"
+  journal: "Journal of the American Medical Informatics Association"
+  year: 2026
+  status: submitted

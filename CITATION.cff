@@ -12,6 +12,14 @@ authors:
     orcid: "https://orcid.org/0000-0003-4532-7165"
     affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan"
 repository-code: "https://github.com/haruki00430/claim-calibrated-evaluation-spatial-ai"
+doi: "10.5281/zenodo.21482470"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21482470"
+    description: "Zenodo archive of the v1.0.0 release"
+  - type: url
+    value: "https://github.com/haruki00430/claim-calibrated-evaluation-spatial-ai"
+    description: "GitHub repository"
 license: MIT
 version: 1.0.0
 date-released: "2026-07-22"

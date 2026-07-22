@@ -2,6 +2,7 @@
 
 > **English** | [日本語](#日本語)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21482470.svg)](https://doi.org/10.5281/zenodo.21482470)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.14](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
 [![OSF Preregistration](https://img.shields.io/badge/OSF-Preregistered-blue.svg)](https://doi.org/10.17605/OSF.IO/ANVGC)
@@ -100,7 +101,8 @@ Study 2 primary analysis was preregistered at OSF before data analysis:
 
 ### Citation
 
-Please cite this repository using the information in [CITATION.cff](CITATION.cff) or use the Zenodo DOI (to be issued upon publication).
+Please cite this repository using the information in [CITATION.cff](CITATION.cff) or use the Zenodo DOI:  
+**https://doi.org/10.5281/zenodo.21482470**
 
 To cite the manuscript:
 > Saito H, Ohira T. Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting. *Journal of the American Medical Informatics Association*. 2026 (submitted).
@@ -185,7 +187,8 @@ Study 2 の主解析は解析開始前にOSFで事前登録されています：
 
 ### 引用
 
-本リポジトリの引用には [CITATION.cff](CITATION.cff) を参照するか、論文公開後に発行されるZenodo DOIをお使いください。
+本リポジトリの引用には [CITATION.cff](CITATION.cff) を参照するか、Zenodo DOIをお使いください：  
+**https://doi.org/10.5281/zenodo.21482470**
 
 論文の引用：
 > Saito H, Ohira T. Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting. *Journal of the American Medical Informatics Association*. 2026（投稿中）.

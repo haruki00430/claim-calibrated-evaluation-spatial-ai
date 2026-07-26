@@ -26,7 +26,7 @@ date-released: "2026-07-22"
 abstract: >
   Supplementary data and reproducibility code for the manuscript
   "Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation
-  of Spatial AI in Health Care Forecasting" (under peer review, 2026).
+  of Spatial AI in Health Care Forecasting" (submitted for publication, 2026).
   Includes the 51-environment Study 1 comparator audit dataset and a
   standard-library-only Python script that reproduces all reported
   arithmetic summaries and ICI-E1 Pearson correlations.

@@ -17,7 +17,7 @@
 > Haruki Saito, MD candidate¹; Tetsuya Ohira, MD, PhD¹²  
 > ¹ Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan  
 > ² Radiation Medical Science Center for the Fukushima Health Management Survey, Fukushima Medical University, Fukushima, Japan  
-> *Submitted for publication, 2026*
+> *Manuscript under revision, 2026*
 
 ### Overview
 
@@ -105,7 +105,7 @@ Please cite this repository using the information in [CITATION.cff](CITATION.cff
 **https://doi.org/10.5281/zenodo.21482470**
 
 To cite the manuscript:
-> Saito H, Ohira T. Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting. *Submitted for publication*, 2026.
+> Saito H, Ohira T. Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting. *Manuscript under revision*, 2026.
 
 ### License
 
@@ -124,7 +124,7 @@ Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 > 齋藤治輝（医学生）¹、大平哲也（MD, PhD）¹²  
 > ¹ 福島県立医科大学医学部疫学講座、福島、日本  
 > ² 福島県立医科大学 放射線医学県民健康管理センター、福島、日本  
-> *投稿中、2026年*
+> *改稿中、2026年*
 
 ### 概要
 
@@ -191,7 +191,7 @@ Study 2 の主解析は解析開始前にOSFで事前登録されています：
 **https://doi.org/10.5281/zenodo.21482470**
 
 論文の引用：
-> Saito H, Ohira T. Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting. *投稿中*. 2026.
+> Saito H, Ohira T. Model Rankings Are Not Self-Interpreting: A Claim-Calibrated Evaluation of Spatial AI in Health Care Forecasting. *改稿中*. 2026.
 
 ### ライセンス
 
